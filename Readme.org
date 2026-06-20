@@ -1,1 +1,78 @@
-*
+:PROPERTIES:
+:GPTEL_MODEL: claude-sonnet-4-6
+:GPTEL_BACKEND: Claude
+:GPTEL_SYSTEM: You are a large language model living in Emacs and a helpful assistant. Respond concisely.
+:GPTEL_TOOLS:
+:GPTEL_BOUNDS: ((response (315 335) (2326 2327) (2344 3002)))
+:END:
+
+* Aquise
+** Corporate LLM
+*** Terminbestätigung per Mail
+#+BEGIN_EXAMPLE text
+
+Hey 👋,
+ 
+vielen Dank – wir würden dich gerne zu einem Erstgespräch einladen. Bitte trag dich kurz über folgenden Link in einen passenden Slot ein: Erstgespräch-Buchen
+ 
+Falls etwas nicht passt, gib kurz Bescheid 🙂
+
+Mit freundlichen Grüßen
+ 
+
+Marcel Benjamin Panknin
+CTO & Senior AI-Developer
+Nachricht von alexander.weinmann@gmail.com am 17. Juni 2026, 09:40 +0200:
+> Guten Tag,
+>
+> Ich bin seit 2007 Geschäftsführer der lyrx GmbH in der Schweiz und habe dort seither IT-Beratung betrieben, als Einzelunternehmer. Die GmbH ist jetzt ein Firmenmantel, da ich die Geschäftstätigkeit im bisherigen Bereich eingestellt habe. Ich will nun in die KI-Beratung für Unternehmen neu einsteigen. Ich benötige dazu Geschäftspartner und externe Berater, die bereit sind, auf Vertragsbasis mit der lyrx GmbH zusammen zu arbeiten.
+>
+> In der Schweiz geht es insbesondere um die Nutzung lokaler, also im besten Fall in der Schweiz gehostete LLMs. Die Schweiz wird vor allem dann erst ein interessantes Absatzziel, wenn der Markt von einem Schweizer Unternehmen (von innen her, wie die lyrx GmbH) aufgerollt werden kann.
+>
+> Diese Chance möchte ich nutzen.
+>
+> Sollten Sie daran Interesse haben, mich insbesondere bei der Gewinnung von Kooperationspartnern zu unterstützen und davon selbst zu profitieren, würde ich mich über eine Rückmeldung freuen.
+>
+> Mit freundlichen Grüßen
+>
+> Rudolf Alexander Weinmann
+>
+> +41 76 257 69 61
+>
+>
+
+voicely.de 
+
+Voicely is a spin-off of
+Relationflow Limited
+
+Anthypolochagou Georgiou M. Savva 26
+SHOP 1-2, 8201 Paphos, CY
+
+E-Mail: support@voicely.de
+
+Website: www.voicely.de
+
+This message may contain confidential and/or privileged information. If you are not the correct addressee or received this message erroneously, please advise the sender immediately by reply email and delete this message. To use, copy, disclose or take any action based on the contents of this message is prohibited by law and may induce liability for damages, thank you for your co-operation.
+
+#+END_EXAMPLE
+*** Vorbereitung für das Erstgespräch mit Vladislav Kamyshev
+
+- Die **lyrx GmbH** als etablierte Schweizer Rechtseinheit (seit 2007, "Firmenhülle") → Marktzugang von innen
+- **Lokale Präsenz** in der Schweiz → Vertrauen bei Schweizer Unternehmen
+- **Vertriebsrolle** – du öffnest Türen, Corporate LLM liefert das technische Produkt
+
+Ich bringe die Schweizer Unternehmensstruktur und übernehme den Vertrieb lokal –
+ich suche einen technischen Partner,
+der das Produkt und das Know-how liefert.
+
+- Für mich ist KI *Self Improving*
+- Ich mache das *Story-Telling*  
+
+**Offene Fragen**
+- Habt ihr bereits **Interesse am Schweizer Markt** oder ist das neu für euch?
+
+
+
+
+            
