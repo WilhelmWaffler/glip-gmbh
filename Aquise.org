@@ -3,7 +3,7 @@
 :GPTEL_BACKEND: Claude
 :GPTEL_SYSTEM: You are a large language model living in Emacs and a helpful assistant. Respond concisely.
 :GPTEL_TOOLS:
-:GPTEL_BOUNDS: ((response (315 335) (2326 2327) (2344 3002)))
+:GPTEL_BOUNDS: ((response (315 335) (2326 2327) (2344 3689)))
 :END:
 
 * Aquise
@@ -71,6 +71,26 @@ der das Produkt und das Know-how liefert.
 
 **Offene Fragen**
 - Habt ihr bereits **Interesse am Schweizer Markt** oder ist das neu für euch?
+*** Demo
+Corporate LLM setzt für Präsentatione, für Videos, und
+allgem ein im Office/Back-Office-Bereich viele KI-Tools
+ein.
+
+Es wäre gut, wenn ich diese Tools für meine Bewerbung als
+Vertriebspartner bei Corporate LLM ebenfalls einsetzen würde,
+um entweder ein Video oder Präsentation damit erstellen könnte,
+damit ich mich besser präsentieren und meinen Vorschlag pushen könnte.
+
+Mache Vorschläge, welche Tools ich nützen könnte, um bei
+meiner Bewerbung erfolgreich zu sein. Es sollten Tools sein, die
+auch Corporate LLM einsetzt und promoted.
+
+Die Vorschläge arbeitest du in dieses org-Dokument ein.
+Du beachtest dabei die vorhandene Outline-Struktur und
+erweiterst sie sinngemäß.
+
+
+
 
 
 
