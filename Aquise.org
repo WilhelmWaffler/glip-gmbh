@@ -72,27 +72,274 @@ der das Produkt und das Know-how liefert.
 **Offene Fragen**
 - Habt ihr bereits **Interesse am Schweizer Markt** oder ist das neu für euch?
 *** Demo
-Corporate LLM setzt für Präsentatione, für Videos, und
-allgem ein im Office/Back-Office-Bereich viele KI-Tools
-ein.
+Corporate LLM setzt für Präsentationen, für Videos und
+allgemein im Office/Back-Office-Bereich viele KI-Tools ein.
 
 Es wäre gut, wenn ich diese Tools für meine Bewerbung als
 Vertriebspartner bei Corporate LLM ebenfalls einsetzen würde,
-um entweder ein Video oder Präsentation damit erstellen könnte,
-damit ich mich besser präsentieren und meinen Vorschlag pushen könnte.
+um entweder ein Video oder Präsentation damit erstellen zu können,
+damit ich mich besser präsentieren und meinen Vorschlag pushen
+könnte.
 
-Mache Vorschläge, welche Tools ich nützen könnte, um bei
-meiner Bewerbung erfolgreich zu sein. Es sollten Tools sein, die
-auch Corporate LLM einsetzt und promoted.
+**** Ziel der Demo
+- Zeigen, dass du *Story-Telling* und KI-Workflows verstehst — nicht
+  nur theoretisch, sondern am eigenen Pitch.
+- Signal an Marcel/Vladislav: *„Ich arbeite so, wie ihr es euren
+  Kunden empfiehlt.“*
+- Lieferformat: **5–7 Minuten Video** *oder* **8–10 Folien
+  Präsentation** (PDF/PPTX), plus 1-seitiges Executive Summary.
 
-Die Vorschläge arbeitest du in dieses org-Dokument ein.
-Du beachtest dabei die vorhandene Outline-Struktur und
-erweiterst sie sinngemäß.
+**** Tool-Stack (Corporate-LLM-Ökosystem)
 
+| Rolle | Tool | Warum passend |
+|-------+------+---------------|
+| Skript & Story | **Corporate LLM** (Claude/GPT) | Eigene Plattform; Multi-Modell, EU-Hosting, Agents — zeigt Produktnähe |
+| Diktat & Text | **Voicely** | Spin-off derselben RelationFlow-Gruppe (Mail-Footer); DSGVO, EU-Server |
+| Präsentation | **Gamma** | KI-Decks aus Prompt/Gliederung; Export PPT/PDF; Claude/ChatGPT-Connector |
+| Video-Avatar | **HeyGen** | KI-Avatar-Videos; native Gamma-Integration (Prompt → Slides → Video) |
+| Video Enterprise | **Synthesia** | Alternative für formellere Corporate-Videos (Governance, 140+ Sprachen) |
+| Stimme | **ElevenLabs** | In Voicely eingebunden; professionelle Voiceovers und Mehrsprachigkeit |
+| Automatisierung | **n8n** | Marcel nutzt n8n produktiv (LinkedIn); verbindet Gamma, HeyGen, LLMs per API |
 
+*Hinweis:* Voicely, Corporate LLM und die Mail-Signatur (RelationFlow) hängen
+zusammen — Voicely und Corporate LLM aktiv einzusetzen wirkt wie
+*„Ich kenne euer Ökosystem.“*
 
+**** Empfehlung: Zwei Wege
 
+***** Weg A — Präsentation *(gewählt)*
+1. *Gliederung* in Corporate LLM schreiben (siehe Anleitung unten).
+2. Mit **Voicely** per Diktat den roten Faden sprechen — natürlicher
+   Ton, weniger „ChatGPT-Geruch“.
+3. Text in **Gamma** einfügen → Deck generieren → Branding anpassen
+   (lyrx-Farben, Logo).
+4. Export als PDF; optional Folien als Sprechernotizen für Live-Pitch
+   im Erstgespräch.
 
+**** Anleitung: Corporate LLM & Gamma (Weg A)
 
+Du brauchst *zwei getrennte Web-Apps* — beide im Browser, kein
+Programm installieren.
 
-            
+| Tool | Was ist das? | URL | Kosten |
+|------+--------------+-----+--------|
+| Corporate LLM | ChatGPT-Alternative für Unternehmen: du schreibst eine Frage, die KI antwortet mit Text. EU-gehostet, mehrere Modelle (GPT, Claude, Gemini). | https://www.corporatellm.de | Free-Plan, keine Kreditkarte |
+| Gamma | KI-Präsentations-Designer: aus Text oder Gliederung werden automatisch schöne Folien. | https://gamma.app/de | Free-Plan mit Credits |
+
+*Rollenverteilung:* Corporate LLM = *Inhalt schreiben* (Worte,
+Argumente, Folientexte). Gamma = *Optik* (Layout, Bilder, PDF).
+
+***** Schritt 1 — Corporate LLM: Account & erster Chat
+
+1. Browser öffnen → https://www.corporatellm.de
+2. Oben rechts *„Kostenlos starten“* / *„Registrieren“* klicken.
+3. Mit E-Mail anmelden (unter 2 Minuten, laut Website).
+4. Nach dem Login siehst du eine **Chat-Oberfläche** — ähnlich wie
+   ChatGPT: links evtl. Verlauf, Mitte ein Textfeld unten.
+5. Oben oder im Chat kannst du das **Modell wählen** (z. B. Claude
+   oder GPT) — für den Pitch reicht das Standard-Modell.
+6. In das Textfeld unten den **Prompt** einfügen (siehe Vorlage unter
+   „Pitch-Aufbau“) und Enter / Senden drücken.
+7. Die KI liefert dir Text — oft als Gliederung mit Überschriften und
+   Stichpunkten pro Folie.
+8. *Nachbearbeiten:* Schreib z. B. „Folie 3 kürzer“ oder „Ton
+   professioneller, weniger Buzzwords“ — iterieren, bis der Inhalt
+   passt.
+9. **Alles markieren und kopieren** (Strg+C) — das ist dein Rohmaterial
+   für Gamma.
+
+*Was du *nicht* brauchst:* Agents, Spaces, BYOM oder Team-Features —
+   das sind Firmen-Funktionen. Für deinen Pitch reicht der normale Chat.
+
+*Optional — Voicely dazwischen:* Statt den Prompt zu tippen, kannst du
+   deine Ideen mit Voicely (voicely.de) diktieren, den Text in
+   Corporate LLM einfügen und sagen: „Formuliere daraus 8
+   Präsentationsfolien.“
+
+***** Schritt 2 — Gamma: Aus Text wird Präsentation
+
+1. Browser → https://gamma.app/de (neuer Tab, separater Account).
+2. *„Kostenlos loslegen“* → mit Google, E-Mail o. ä. registrieren.
+3. Auf der Starts
+   Inhalte; Gamma allein ist stärker beim Design.
+
+***** Schritt 3 — Fertig machen fürs Erstgespräch
+
+- PDF speichern als =lyrx-corporate-llm-pitch.pdf=
+- Pro Folie 2–3 Sprechernotizen aufschreiben (was du *sagst*, nicht
+  nur vorliest).
+- Im Gespräch erwähnen: *„Den Inhalt habe ich mit Corporate LLM
+  erarbeitet, das Deck mit Gamma — genau der Workflow, den ihr euren
+  Kunden empfiehlt.“*
+
+***** Kurz-Workflow (zum Abhaken)
+
+#+BEGIN_EXAMPLE
+[ ] corporatellm.de — registrieren
+[ ] Prompt einfügen → Folientexte generieren → kopieren
+[ ] (optional) Voicely-Diktat vorher einfügen
+[ ] gamma.app/de — registrieren
+[ ] „Paste in text“ → Text einfügen → 8 Folien generieren
+[ ] Theme/Logo anpassen
+[ ] PDF exportieren
+[ ] Sprechernotizen schreiben
+#+END_EXAMPLE
+
+***** Weg B — Video (stärkerer Wow-Effekt)
+1. Skript wie oben (Corporate LLM + Voicely).
+2. **HeyGen + Gamma**: In HeyGen Präsentation aus Prompt erzeugen,
+   direkt in Avatar-Video umwandeln (kein Tool-Wechsel nötig).
+3. Optional **ElevenLabs** für Schweizerdeutsch/Hochdeutsch-Voiceover,
+   falls kein eigener Avatar gewünscht.
+4. Kurzversion (90 s) für Mail/LinkedIn + Vollversion (5–7 min) fürs
+   Erstgespräch.
+
+*Pragmatisch:* Weg A für das Erstgespräch reicht oft; Weg B als
+Follow-up nach positivem Call.
+
+**** Pitch-Aufbau (Inhalt für Deck oder Video)
+
+| # | Folie / Szene | Kernbotschaft |
+|---+---------------+---------------|
+| 1 | Hook | „Schweizer Unternehmen wollen lokale KI — aber kein US-Cloud-Risiko.“ |
+| 2 | Problem | Fragmentierte ChatGPT-Nutzung, kein Firmenwissen, Compliance-Lücken |
+| 3 | Wer ich bin | lyrx GmbH seit 2007, Schweizer Rechtseinheit, lokale Präsenz |
+| 4 | Was ich bringe | Vertrieb & Türen — Story-Telling, Netzwerk, Vertrauen vor Ort |
+| 5 | Was ihr bringt | Corporate LLM: Produkt, Technik, EU-Hosting, Agents, Spaces |
+| 6 | Synergie | Ich öffne den CH-Markt von innen; ihr liefert die Plattform |
+| 7 | Schweiz-Fokus | Lokale/hostete LLMs als Differenzierung (Nebius, Infomaniak, etc.) |
+| 8 | Nächster Schritt | Pilot-Kunde identifizieren, gemeinsames Go-to-Market, Vertragsmodell |
+
+Prompt-Vorlage für Corporate LLM/Gamma:
+
+#+BEGIN_EXAMPLE
+Erstelle eine 8-Folien-Vertriebspartner-Pitch-Präsentation.
+Kontext: Ich (lyrx GmbH, Schweiz, GF seit 2007) suche eine
+Partnerschaft mit Corporate LLM als technischem Partner für den
+Schweizer B2B-Markt. Ich übernehme Vertrieb und lokale Präsenz,
+Corporate LLM liefert die KI-Plattform (EU-DSGVO, Multi-Modell,
+Agents, RAG-Spaces). Ton: professionell, konkret, kein Buzzword-Bingo.
+Zielgruppe: CTO und Vertrieb von Corporate LLM.
+#+END_EXAMPLE
+
+***** Pitch-Aufbau
+
+Hier ist eine klare, 8-Folien-Vertriebspartner-Pitch-Präsentation (Inhalt + Sprechnotizen) für das Gespräch mit CTO und Vertrieb von Corporate LLM. Ton: professionell, konkret.
+
+Slide 1 — Titel & Kernangebot
+- Titel: Partnerschaftsvorschlag: lyrx GmbH + Corporate LLM für den Schweizer B2B-Markt
+- Kurz: lyrx übernimmt Vertrieb, Lokale Präsenz, Onboarding; Corporate LLM liefert die KI-Plattform (EU‑DSGVO, Multi‑Model, Agents, RAG‑Spaces).
+- Warum jetzt: Nachfrage nach konformen, produktionsreifen LLM-Lösungen in CH-Unternehmen steigt.
+Sprechnotiz: Kurzvorstellung lyrx (CH, Geschäftsführer seit 2007), Ziel: schnelle Marktdurchdringung mit minimalem Risiko für Corporate LLM.
+
+Slide 2 — Marktbedarf (konkret)
+- Zielkunden: mittel‑ bis großunternehmen (Finance, Legal, Pharma, Industrie, Versicherungen) mit Bedarf an sicherer LLM‑Automation.
+- Anforderungen: DSGVO‑Konformität, Datenhoheit, Mehrsprachigkeit (DE/FR/IT/EN), Integrationsfähigkeit in bestehende Systeme.
+- Verkaufsargument: Lokaler Ansprechpartner + technisches Enterprise‑Produkt = Entscheidungsbeschleuniger beim Kunden.
+Sprechnotiz: Fokus auf Entscheidungsfaktoren, nicht auf Buzzwords — Compliance und Betriebssicherheit entscheiden Kauf.
+
+Slide 3 — Warum lyrx als Partner
+- Vertriebserfahrung seit 2007 in der Schweiz, bestehende Beziehungen zu Entscheidern in Zielbranchen.
+- Lokale Vertriebs- & Serviceinfrastruktur: Pre‑Sales, Customer Success, Trainings vor Ort.
+- Verantwortung: Lead‑Generation, Sales‑Cycle, Vertragsverhandlung, 1st‑Level Support, KAM.
+Sprechnotiz: Wir übernehmen Marktzugang und Risikoteilung; Corporate LLM kann sich auf Produkt/Plattform konzentrieren.
+
+Slide 4 — Erwartetes Angebot von Corporate LLM (konkret)
+- Plattformanforderungen: EU‑DSGVO‑konform, Multi‑Model‑Support, Agents‑Orchestrierung, RAG‑Spaces für kundenspezifische Wissensbasis.
+- Betriebsanforderungen: SLA, SSO, Audit‑Logs, role‑based access, verschlüsselte Datenspeicherung.
+- Integrationspunkte: REST/API, Webhooks, Connectors (SharePoint, SAP, DBs), On‑prem/Hybrid Optionen.
+Sprechnotiz: Wir erwarten Production‑Ready Features und klare Integrations‑APIs für schnelle Implementierung.
+
+Slide 5 — Go‑to‑Market (Rollen & Ablauf)
+- Rollen:
+  - lyrx: Marktbearbeitung, PoC/Pilot, Implementierungs‑Projektmanagement, lokaler Support.
+  - Corporate LLM: Plattformbetrieb, Weiterentwicklung, 2nd/3rd Level Support, Security‑Changes.
+- Ablauf:
+  1. Joint Qualification & Pilot‑Scope
+  2. Technische Integration & Pilot (6–10 Wochen)
+  3. Rollout & Kundenvertrag (operatives Hand‑over)
+- Marketing: Gemeinsame Referenzkunden, Webinare, Sales Enablement‑Material in DE/FR/IT.
+Sprechnotiz: Klare Hand‑over‑Punkte und SLA‑Verantwortlichkeiten verhindern Finger‑pointing.
+
+Slide 6 — Kommerzielles Modell (konkrete Optionenvorschläge)
+- Option A — Reseller/Markup: Corporate LLM stellt Listenpreise, lyrx verkauft mit vereinbartem Brutto‑Aufschlag (z.B. 15–30%) + Service‑Gebühr.
+- Option B — Umsatzbeteiligung: Net Revenue Share (z.B. 60% Corporate LLM / 40% lyrx) bei Abonnementverträgen; Implementation separat fakturiert.
+- Option C — Referral + Projektmarge: Einmalige Vermittlungsprovision + Projekt‑Tagessätze für Implementierung.
+- KPIs: Pilotabschlussrate, Time‑to‑PO (Ziel < 12 Wochen), ARR‑Ziel nach 12 Monaten.
+Sprechnotiz: Wir sind offen für Mischung; wichtig sind transparente Abrechnungsprozesse und Reporting.
+
+Slide 7 — Technische Implementationsübersicht (Kurz & präzise)
+- Ziel: Pilot in 6–10 Wochen, Produktion in 12–16 Wochen (abhängig von Connectoren & Compliance‑Checks).
+- Minimaler Pilotumfang: 1 RAG‑Space, 1 Agent‑Flow, SSO, Audit‑Logging, Nutzerrolle für 5–10 Power‑User.
+- Sicherheitscheck: Data flow diagram, Verschlüsselung, Data retention policy, DSGVO‑DPA.
+- Beispiel: Authentifizierungs‑ und API‑Ablauf (Beispiel-Requests)
+```http
+# Tenant/Org anlegen (POST)
+POST /api/v1/tenants
+Authorization: Bearer <admin-token>
+Content-Type: application/json
+{
+  "name": "lyrx-customer-xyz",
+  "region": "eu",
+  "dataRetentionDays": 365
+}
+
+# RAG-Space erstellen (POST)
+POST /api/v1/tenants/{tenantId}/rag-spaces
+Authorization: Bearer <tenant-api-key>
+Content-Type: application/json
+{
+  "name": "vertragssupport",
+  "connectors": ["sharepoint", "s3"],
+  "models": ["model-a","model-b"]
+}
+
+# Agent-Aufruf (POST)
+POST /api/v1/tenants/{tenantId}/agents/{agentId}/run
+Authorization: Bearer <user-token>
+Content-Type: application/json
+{
+  "input": "Fasse Vertragsklausel X zusammen",
+  "context": { "ragSpaceId": "..." }
+}
+```
+Sprechnotiz: Wichtig sind klare Onboarding‑APIs, Sandbox‑Tenants und Monitoring/Observability‑Zugänge.
+
+Slide 8 — Pilotvorschlag & nächste Schritte
+- Pilotumfang: 6–10 Wochen, 1 Referenzkunde (selected vertical), Ziele: Business Case validieren, Integrationen testen, Kundenzufriedenheit messen.
+- Lieferumfang Pilot: Plattform‑Sandbox, 1 RAG‑Space, Agent‑Flow, 5 Power‑User, Dokumentation, Abschliessender Business Case.
+- Zeitplan & Entscheidpunkte:
+  - Woche 0: Vertrag & NDA unterschreiben
+  - Woche 1–2: Setup & Datenanbindung
+  - Woche 3–6: Tests & User‑Feedback
+  - Woche 7–8: Ergebnispräsentation & Go/No‑Go
+- Konkreter Ask an Corporate LLM: 2‑stündiger technischer Workshop (CTO + Integrations‑Team) und ein Vorschlag für ein initiales Commercial Term Sheet.
+Kontakt: Geschäftsführer, lyrx GmbH — wir schlagen Terminvorschläge für Workshop vor.
+Sprechnotiz: Schlagen Sie konkrete Termine vor; wir bringen Prospektunterlagen und 1–2 potenzielle Pilotkunden mit.
+
+Abschluss (1 Satz)
+- Unser Vorschlag: Klare Partnerschaftsrollen, schneller Pilot, gemeinsamer Ausbau in der Schweiz — nächste Aktion:
+  Termin für technischen Workshop und Kommerz‑Discuss vereinbaren.
+
+**** Story-Telling-Hebel (deine Stärke)
+- *Self Improving*: Zeige im Pitch, wie du das Skript iteriert hast
+  (Voicely → LLM → Gamma) — Meta-Beweis für „KI als Workflow“.
+- *Schweiz von innen*: Nicht „wir expandieren in die CH“, sondern
+  „der Markt existiert — ich bin schon drin“.
+- *Compliance-Story*: DSGVO/EU-Hosting + Schweizer Datenschutzgesetz
+  als Verkaufsargument, nicht als Fußnote.
+
+**** Checkliste vor dem Erstgespräch
+- [ ] Deck oder Video fertig (max. 10 min beim Vorstellen)
+- [ ] 1-seitiges Executive Summary als PDF-Anhang
+- [ ] Konkreter Pilot-Kunden-Gedanke (Branche, Größe, Pain Point)
+- [ ] Antwort auf „Interesse am CH-Markt?“ vorbereitet
+- [ ] Fragen an sie: Vertragsmodell, Margen, technischer Support CH
+- [ ] Demo selbst mit deren Tools erstellt (Voicely/Corporate LLM/Gamma
+      erwähnen — zeigt Recherche und Alignment)
+
+*Entscheidung:* **Weg A (Präsentation)** — siehe Anleitung oben.
+
+**** Offene Entscheidungen (restlich)
+- [ ] Eigene lyrx-Farben/Logo in Gamma einpflegen?
+- [ ] Sprache: Hochdeutsch oder Schweizer Kontext explizit betonen?
