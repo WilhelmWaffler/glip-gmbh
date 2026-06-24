@@ -38,14 +38,16 @@ Schwerpunkte:
 ### 10/2023 – 11/2023 · Zeitgeist
 **Software Engineer / Consultant**
 
-- Projektarbeit für Zeitgeist
-- Leistungen über die lyrx GmbH fakturiert
+- Projektarbeit für einen deutschen Sportwagenhersteller
+- System zur Verwaltung nationaler Standards in der *Automobilindustrie*
 
 ### 2023 · Backdrop Build
-**Builder / Gewinner**
+**Builder**
 
-- Zweimalige Teilnahme an Backdrop-Build-Projekten
-- Beide Teilnahmen mit Gewinn abgeschlossen
+- Zweimalige Teilnahme an Backdrop-Build (Accelarator/Hackaton)
+- Beide Teilnahmen mit Projekt **GLIP**
+  (*Galactic Library Of Intellectual Property*)
+  jeweils "Mitgewinner")
 
 ### 10/2021 – 12/2022 · SBB Schweizer Bahn
 **Test-Management & DevOps**
@@ -64,7 +66,7 @@ Nürnberg
 ### 2020 · Adnovum / VP Bank
 **Senior Java Developer**
 
-- CRM-/RM-Portal für die VP Bank
+- CRM-/RM-Portal für die VP Bank Luxemburg
 - Java 11, Spring Boot, Kafka, Microservices
 
 ### 2020 · FirmTec / Helsana Versicherungen AG
