@@ -1,10 +1,9 @@
 # Alexander Weinmann
 
-**Senior IT-Consultant · Software-Architekt · Java / DevOps / Web3**
+**Senior IT-Consultant · Software-Architekt ·  DevOps · KI-Junkie **
 
 - Oberholzstr. 5, CH-8603 Schwerzenbach
 - +41 76 257 69 61
-- lyrx.de
 - enna@mailbox.org
 - lyrx GmbH (Geschäftsführer seit 2007)
 - Sprachen: Deutsch (Muttersprache), Englisch (verhandlungssicher),
