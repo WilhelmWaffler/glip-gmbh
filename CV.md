@@ -1,7 +1,5 @@
 # Alexander Weinmann
 
-<!-- Test-Commit: Wilhelm Waffler - Git-Push-Workflow-Test (automatisiert) -->
-
 **Senior IT-Consultant · Software-Architekt · Java / DevOps / Web3**
 
 - Oberholzstr. 5, CH-8603 Schwerzenbach
