@@ -16,21 +16,30 @@ Senior-Ingenieur mit über 25 Jahren Erfahrung in Software-Entwicklung,
 Architektur und DevOps in regulierten Umgebungen: Banken,
 Versicherungen, Pharma, Enterprise und öffentlicher Sektor.
 
-Schwerpunkte:
+Agiert seit Kurzem zusammen mit seinem neuen persönlichen
+KI-Agenten
+[Wilhelm Waffler](https://github.com/WilhelmWaffler/WilhelmWaffler).
+
+Zusammen mit Wilhelm (der ein wesentlich schlichteres Gemüt ist)
+kämpft er nun gegen monotone Fleißarbeit.
+
+Schwerpunkte bisher:
 - produktionsreife, auditierbare Software
 - CI/CD, Testautomatisierung, Integration
 - Java-, Scala- und Spring-basierte Systeme
-- Blockchain-/Web3-nahe Produkt- und Prototypenarbeit
 
-## Schwerpunkte
+Herzensthemen:
+- Softwareentwicklung im KI-Zeitalter
+- Kreatives Schreiben und das Urheberrecht (**GLIP**)
+
+## Bisheriges Erfahrungsspektrum
 
 - **Branchen:** Banking, Versicherung, Pharma, Enterprise, Public Sector
 - **Architektur:** Software-Architektur, Integration,
   High-Availability, Analyse
 - **DevOps / CI-CD:** Jenkins, Maven, TeamCity, Docker, OpenShift,
   ArgoCD, GitOps
-- **Technologien:** Java, Scala, Spring Boot, Kafka, IBM MQ, SQL,
-  JavaScript
+- **Technologien:** Java, Scala, SQL, JavaScript, Node
 - **Web3:** Ethereum, Stellar, IPFS, Smart Contracts
 
 ## Berufserfahrung / Projekte
