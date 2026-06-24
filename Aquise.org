@@ -343,3 +343,117 @@ Abschluss (1 Satz)
 **** Offene Entscheidungen (restlich)
 - [ ] Eigene lyrx-Farben/Logo in Gamma einpflegen?
 - [ ] Sprache: Hochdeutsch oder Schweizer Kontext explizit betonen?
+
+** Pitch-Briefing (Erstgespräch 2026-06-24, 13:00)
+:PROPERTIES:
+:CREATED: [2026-06-24 Mi 11:44]
+:FOKUS: KI-Beratung für lokale LLMs UND lokale KI-Agenten
+:ZIEL: Vertriebspartner der lyrx GmbH für Corporate LLM werden
+:END:
+
+*** Ziel in einem Satz
+Vertriebspartner der lyrx GmbH für Corporate LLM werden — den
+Schweizer B2B-Markt /von innen/ öffnen, mit Fokus auf *lokal
+gehostete LLMs* und *lokale KI-Agenten*. Sie liefern Plattform &
+Technik, ich liefere Vertrieb & Vertrauen vor Ort.
+
+*** Gegenüber
+- *Vladislav Kamyshev* — Erstgespräch (Everlast / Voicely-Umfeld)
+- *Marcel Benjamin Panknin* — CTO & Senior AI-Developer, nutzt n8n
+  produktiv
+
+*** Mein Setup (Glaubwürdigkeit)
+- lyrx GmbH, Schweiz, GF seit 2007 — etablierte Rechtseinheit, keine
+  Briefkastenfirma
+- Bisher IT-Beratung (Einzelunternehmer); GmbH jetzt „Firmenmantel"
+  → bewusster Neustart in KI-Beratung
+- Kontakt: Rudolf Alexander Weinmann · +41 76 257 69 61
+
+*** Die 3 Kernbotschaften
+**** 1. Schweiz von innen — nicht von außen
+„Ich expandiere nicht in die Schweiz — ich /bin/ schon drin. Der
+Markt lässt sich nur von einem Schweizer Unternehmen von innen
+aufrollen. Das bin ich."
+
+**** 2. Lokale LLMs + lokale KI-Agenten = das Verkaufsargument
+Schweizer Unternehmen (Finance, Legal, Pharma, Versicherung,
+Industrie) wollen KI — aber kein US-Cloud-Risiko. Datenhoheit +
+DSGVO/CH-Datenschutz sind kein Nebenpunkt, sondern /der Kaufgrund/.
+Lokal gehostete Modelle + on-prem/hybride Agenten lösen genau das.
+
+**** 3. Klare Rollenteilung
+- Ich (lyrx): Türen öffnen, lokale Präsenz, Pre-Sales,
+  Vertragsverhandlung, Onboarding, 1st-Level
+- Corporate LLM: Plattform, Technik, EU/CH-Hosting, Agents,
+  RAG-Spaces, 2nd/3rd-Level
+
+*** Kommerzmodelle (drei Optionen, flexibel zeigen)
+- Option A — Reseller/Markup: 15–30 % Aufschlag + Service-Gebühr
+- Option B — Revenue Share: z.B. 60/40 (Corporate LLM / lyrx) bei
+  Abos, Implementierung separat
+- Option C — Referral + Projektmarge: Vermittlungsprovision +
+  Tagessätze
+Signal: „Offen für eine Mischung — wichtig sind transparente
+Abrechnung und Reporting."
+
+*** Konkreter Pilot-Vorschlag (mein Ask)
+- 6–10 Wochen, 1 Referenzkunde (eine Branche)
+- Minimal-Scope: 1 RAG-Space, 1 Agent-Flow, SSO, Audit-Logging,
+  5–10 Power-User
+- Ask an sie: 2-stündiger technischer Workshop (CTO +
+  Integrationsteam) + initiales Term Sheet
+
+*** Fragen, die ICH stelle (Augenhöhe)
+- Habt ihr schon Interesse am Schweizer Markt, oder ist das neu?
+- Unterstützt ihr lokales/Schweizer Hosting bzw. on-prem für Agenten?
+- Wie sieht technischer Support für CH-Kunden aus?
+- Welches Vertragsmodell bevorzugt ihr?
+
+*** Falls gefragt: „Wie arbeitest du?"
+„Ich arbeite genau so, wie ihr es euren Kunden empfehlt — KI-
+Workflows, self-improving, Story-Telling. Diesen Pitch habe ich mit
+eurem eigenen Stack erarbeitet." (Corporate LLM + Gamma erwähnen.)
+
+*** Tonfall
+Professionell, konkret, kein Buzzword-Bingo. Nicht Bittsteller,
+sondern /Marktzugang-Anbieter/. Sie brauchen jemanden in der
+Schweiz — ich bin die Lösung.
+
+** Spickzettel — 15-Min-Call (2026-06-24, 13:00)
+:PROPERTIES:
+:CREATED: [2026-06-24 Mi 11:47]
+:DAUER: 15 Minuten — knapp halten, nicht ausschweifen
+:END:
+
+*** 0–2 Min · Einstieg (1 Satz)
+„lyrx GmbH, Schweiz, GF seit 2007. Ich will Vertriebspartner für
+euch im CH-Markt werden — Fokus: lokale LLMs + lokale KI-Agenten."
+
+*** 2–7 Min · 3 Kernbotschaften
+1. Schweiz /von innen/ — ich bin schon drin, nicht „Expansion".
+2. Lokale LLMs + lokale Agenten = Kaufgrund (Datenhoheit, kein
+   US-Cloud-Risiko, DSGVO/CH-Datenschutz).
+3. Rollen: ich = Vertrieb/Türen/lokal · ihr = Plattform/Technik.
+
+*** 7–11 Min · Deal + Pilot
+- Kommerz: A) Markup 15–30 % · B) Rev-Share 60/40 · C) Referral+Marge
+  → „offen für Mischung, wichtig: transparente Abrechnung".
+- Pilot: 6–10 Wo, 1 Referenzkunde, 1 RAG-Space + 1 Agent-Flow, SSO.
+
+*** 11–14 Min · Meine 4 Fragen
+- Interesse am CH-Markt schon da?
+- Lokales/CH-Hosting bzw. on-prem für Agenten möglich?
+- Tech-Support für CH-Kunden?
+- Bevorzugtes Vertragsmodell?
+
+*** 14–15 Min · Abschluss / Ask
+„Nächster Schritt: 2-h technischer Workshop (CTO + Team) +
+initiales Term Sheet. Ich bringe 1–2 potenzielle Pilotkunden mit."
+
+*** Falls „Warum du?"
+„Ich arbeite so, wie ihr es euren Kunden empfehlt — diesen Pitch
+mit eurem Stack (Corporate LLM + Gamma) erarbeitet."
+
+*** Merke
+Nicht Bittsteller — /Marktzugang-Anbieter/. Sie brauchen jemanden
+in der Schweiz. Kein Buzzword-Bingo. Reden lassen, zuhören, fragen.
