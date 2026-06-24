@@ -20,7 +20,9 @@ Agiert seit Kurzem zusammen mit seinem neuen persönlichen
 KI-Agenten
 [Wilhelm Waffler](https://github.com/WilhelmWaffler/WilhelmWaffler).
 
-Zusammen mit Wilhelm (der ein wesentlich schlichteres Gemüt ist)
+Mit Wilhelm 
+(der ein wesentlich schlichteres Gemüt ist, ihm aber
+die Drecksarbeit abnehmen soll)
 kämpft er nun gegen monotone Fleißarbeit.
 
 Schwerpunkte bisher:
@@ -28,7 +30,7 @@ Schwerpunkte bisher:
 - CI/CD, Testautomatisierung, Integration
 - Java-, Scala- und Spring-basierte Systeme
 
-Herzensthemen:
+Herzensthemen neu:
 - Softwareentwicklung im KI-Zeitalter
 - Kreatives Schreiben und das Urheberrecht (**GLIP**)
 
