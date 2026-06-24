@@ -426,34 +426,142 @@ Schweiz — ich bin die Lösung.
 :END:
 
 *** 0–2 Min · Einstieg (1 Satz)
-„lyrx GmbH, Schweiz, GF seit 2007. Ich will Vertriebspartner für
-euch im CH-Markt werden — Fokus: lokale LLMs + lokale KI-Agenten."
+
+lyrx GmbH, Schweiz, Seit 2007. Ich will Vertriebspartner
+für KI-Berater im CH-Markt werden
+
+Fokus: lokale LLMs + lokale KI-Agenten.
 
 *** 2–7 Min · 3 Kernbotschaften
+
 1. Schweiz /von innen/ — ich bin schon drin, nicht „Expansion".
 2. Lokale LLMs + lokale Agenten = Kaufgrund (Datenhoheit, kein
    US-Cloud-Risiko, DSGVO/CH-Datenschutz).
-3. Rollen: ich = Vertrieb/Türen/lokal · ihr = Plattform/Technik.
-
-*** 7–11 Min · Deal + Pilot
-- Kommerz: A) Markup 15–30 % · B) Rev-Share 60/40 · C) Referral+Marge
-  → „offen für Mischung, wichtig: transparente Abrechnung".
-- Pilot: 6–10 Wo, 1 Referenzkunde, 1 RAG-Space + 1 Agent-Flow, SSO.
+3. Rollen: ich = Vertrieb/Türen/lokal · Partner = Plattform/Technik.
 
 *** 11–14 Min · Meine 4 Fragen
+
 - Interesse am CH-Markt schon da?
 - Lokales/CH-Hosting bzw. on-prem für Agenten möglich?
-- Tech-Support für CH-Kunden?
-- Bevorzugtes Vertragsmodell?
+- Tech-Support für CH-Kunden
 
 *** 14–15 Min · Abschluss / Ask
+
 „Nächster Schritt: 2-h technischer Workshop (CTO + Team) +
-initiales Term Sheet. Ich bringe 1–2 potenzielle Pilotkunden mit."
+initiales Term Sheet."
 
 *** Falls „Warum du?"
+
 „Ich arbeite so, wie ihr es euren Kunden empfehlt — diesen Pitch
 mit eurem Stack (Corporate LLM + Gamma) erarbeitet."
 
 *** Merke
+
 Nicht Bittsteller — /Marktzugang-Anbieter/. Sie brauchen jemanden
 in der Schweiz. Kein Buzzword-Bingo. Reden lassen, zuhören, fragen.
+
+*** Termine
+
+Morgen 15:00 Uhr Folgegespräch.
+
+
+
+
+** Folgegespräch-Briefing (2026-06-25, 15:00)
+:PROPERTIES:
+:CREATED: [2026-06-24 Mi 13:38]
+:KONTEXT: Erstgespräch 24.06. "so la la"; sie sind in CH schon aktiv
+:NEUE_POSITION: Technischer Delivery- & Trust-Partner statt Marktöffner
+:END:
+
+*** Lageänderung seit Erstgespräch
+Sie haben bereits Leute in der Schweiz und sind dort aktiv. → Der
+Hebel „ich rolle den CH-Markt von innen auf" ist /entwertet/. Nicht
+mit ihren Sales-Leuten konkurrieren, sondern sie /technisch/ ergänzen.
+
+*** Neue Positionierung (ein Satz)
+„Ihr habt Markt und Sales in der Schweiz. Ich bringe die /technische
+Tiefe/ und /Branchen-Glaubwürdigkeit/, damit eure lokale-LLM-Lösung
+bei regulierten CH-Großkunden (Banken, Versicherung, Pharma)
+tatsächlich durch Security/Compliance kommt und produktiv läuft."
+
+*** Mein Mehrwert — 3 Säulen (CV-belegt)
+**** 1. Branchen-Glaubwürdigkeit (das Killer-Argument)
+25+ Jahre real bei: /Credit Suisse, UBS, Commerzbank/ (Banken),
+/AXA, SwissLife/ (Versicherung), /Galexis/ (Pharma), /SAP/ (Enterprise).
+→ „Ich saß auf der Kundenseite. Ich weiß, was die Security-/Compliance-
+Abteilung einer Schweizer Bank fragt und woran KI-Deals dort scheitern."
+
+**** 2. Technische Implementierungs-Tiefe
+DevOps, CI/CD, Integration, Testing, Architektur (arc42). Build-/
+Deploy-/Audit-Realität von Großkunden. → „Eure Plattform muss bei
+diesen Kunden auditierbar und produktionsreif laufen — das ist mein
+Handwerk seit 25 Jahren."
+
+**** 3. Blockchain/Web3 + KI
+Mehrere reale Ethereum-Smart-Contract-Projekte (lyrx Books, Eternitas).
+→ Versteht dezentrale/lokale Architekturen technisch, nicht nur als
+Pitch-Buzzword. Eigenes Projekt GLIP (dezentrale KI via Bittensor).
+
+*** Was ich morgen herausfinden muss (Discovery)
+- Was machen ihre CH-Leute genau? Sales/Account — oder auch
+  technische Delivery/Pre-Sales?
+- Wo /haken/ ihre Deals? Wo verlieren sie regulierte Kunden?
+- Brauchen sie jemanden für PoC/Implementierung/Compliance-Nachweis?
+- Suchen sie Reseller (haben sie) oder Delivery-Kapazität (= ich)?
+
+*** Mein Angebot (flexibel)
+- /Technischer Delivery-Partner/: PoC, Integration, Compliance-
+  Nachweis, Pilotbegleitung bei regulierten CH-Kunden
+- /Pre-Sales-Engineering/: technische Tiefe in Sales-Gesprächen, die
+  ihre Account-Leute nicht liefern können
+- Vertragsbasis (lyrx GmbH), projekt-/stundenbasiert
+
+*** Tonfall
+Nicht mehr „lass mich euren Markt öffnen" (abgewertet). Sondern auf
+Augenhöhe als /Senior Engineer/: ruhig, konkret, technisch
+glaubwürdig. Weniger verkaufen, mehr Discovery + Substanz zeigen.
+
+** Spickzettel — Folgegespräch (2026-06-25, 15:00)
+:PROPERTIES:
+:CREATED: [2026-06-24 Mi 13:38]
+:LEITSATZ: Nicht Marktöffner — technischer Delivery- & Trust-Partner
+:END:
+
+*** Einstieg (1 Satz)
+„Nach gestern hab ich nachgedacht: Ihr seid in der Schweiz schon
+aktiv — da bringe ich euch nicht mehr Markt, sondern technische
+Tiefe für die regulierten Großkunden."
+
+*** Meine 3 Trümpfe (CV-belegt, kurz nennen)
+1. /Branchen/: real bei Credit Suisse, UBS, Commerzbank, AXA,
+   SwissLife, Galexis (Pharma), SAP — 25+ Jahre.
+2. /Technik/: DevOps, CI/CD, Integration, Testing, Architektur —
+   produktionsreif + auditierbar bei Banken/Versicherern.
+3. /Web3+KI/: reale Ethereum-Smart-Contracts; eigenes Projekt GLIP
+   (dezentrale KI/Bittensor).
+
+*** Kernbotschaft
+„Ich konkurriere nicht mit euren Sales-Leuten. Ich bin der, der die
+technisch anspruchsvollen, compliance-kritischen Deals zum Laufen
+bringt."
+
+*** Meine 4 Discovery-Fragen
+- Was machen eure CH-Leute genau — Sales oder auch Technik/Delivery?
+- Wo haken eure Deals bei regulierten Kunden?
+- Braucht ihr Pre-Sales-Engineering / PoC-Implementierung?
+- Sucht ihr Reseller oder Delivery-Kapazität?
+
+*** Mein Angebot
+Technischer Delivery-/Pre-Sales-Partner auf Vertragsbasis (lyrx GmbH),
+projekt-/stundenweise. PoC, Integration, Compliance-Nachweis,
+Pilotbegleitung.
+
+*** Abschluss / Ask
+„Lasst uns einen konkreten Fall durchspielen — habt ihr einen
+regulierten CH-Kunden, wo ein PoC gerade hakt? Daran zeige ich, was
+ich beitrage."
+
+*** Merke
+Augenhöhe, Senior Engineer. Weniger verkaufen, mehr fragen + Substanz.
+CV liegt bereit (PDF) — anbieten zuzuschicken.
