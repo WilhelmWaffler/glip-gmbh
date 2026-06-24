@@ -1,6 +1,6 @@
 # Alexander Weinmann
 
-**Senior IT-Consultant · Software-Architekt ·  DevOps · KI-Junkie **
+**Senior IT-Consultant · Software-Architekt ·  DevOps · KI-Junkie**
 
 - Oberholzstr. 5, CH-8603 Schwerzenbach
 - +41 76 257 69 61
