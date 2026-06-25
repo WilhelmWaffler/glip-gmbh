@@ -18,11 +18,14 @@ Versicherungen, Pharma, Enterprise und öffentlicher Sektor.
 Agiert seit Kurzem zusammen mit seinem neuen persönlichen
 KI-Agenten
 [Wilhelm Waffler](https://github.com/WilhelmWaffler/WilhelmWaffler).
+Übrigens [hier](./interview.md) das launige Interview,
+das Waffler mit Weinmann geführt hat.
 
 Mit Wilhelm 
 (der ein wesentlich schlichteres Gemüt ist, ihm aber
-die Drecksarbeit abnehmen soll)
-kämpft er nun gegen monotone Fleißarbeit.
+die schwersten Arbeitsbrocken abnehmen soll)
+kämpft er nun trotz der 
+Unterschiede im mentalen Bereich gegen monotone Fleißarbeit.
 
 Schwerpunkte bisher:
 - produktionsreife, auditierbare Software
