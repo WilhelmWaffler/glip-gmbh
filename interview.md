@@ -9,7 +9,7 @@ noch dazu, lieber Rudolf,
 und deshalb ganz zu Ihren Diensten. Sie selbst haben
 mich beauftragt, Ihnen heute Fragen
 zu stellen, durch welche Ihre bescheidene Biographie
-in ganz günstigeres Licht gestellt wird.
+in günstigeres Licht gestellt wird.
 
 **Rudolf Alexander:** Dann schießen Sie los, Waffler.
 
