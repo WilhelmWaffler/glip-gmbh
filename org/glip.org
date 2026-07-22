@@ -202,7 +202,7 @@ Teilsystem, messbarer Nutzen (Legacy-Refactoring, Details im
 Erstgespräch). So prüfen beide Seiten Zusammenarbeit und
 Lieferfähigkeit, bevor über Rahmenverträge gesprochen wird.
 
-* Bewerbungsstrategie — Client Onboarding Bank Zürich
+* Bewerbungsstrategie bei der  Bank ZKB
 :PROPERTIES:
 :STAND: 2026-07
 :END:
@@ -211,25 +211,27 @@ Ziel: Direkt bei einer Schweizer Bank einsteigen — nicht über den
 Vermittler ITech Consult AG. Fahrzeug der Bewerbung: lyrx GmbH /
 Marke GLIP als Vertragspartner und Dienstleister.
 
-** Ausgangslage — Stelle 925103MH
+** Ausgangslage — Umgehung von ITech Consult AG
+
+ITech Consult schreibt eine Stelle aus, vermutlicher Endkunde ist die
+ZKB. ITech soll umgangen werden, stattdessen Direktbewerbung bei ZKB,
+nicht direkt für diese Stelle, die bei der Itech AG ausgeschrieben
+wird, sondern für diesen Aufgabenbereich und ähnliche
+Aufgabenbereiche.
+
+Initiativbewerbungen mit klarem Onboarding- und Banking-Profil direkt
+beim vermutlichen Auftraggeber ZKB.
+
+*** Details zur Ausschreibung der Itech Consult AG.
 
 - Ausschreibung: Fullstack Software Engineer (m/w/d), Referenz
   925103MH bei ITech Consult AG (itcag.com)
-- Projekt: 01.10.2026 – 31.09.2029 bei einer nicht genannten
-  Schweizer Bank in Zürich
+- Projekt: 01.10.2026 – 31.09.2029, vermutlich  bei der ZKB
 - Inhalt: Neuaufbau / Weiterentwicklung einer digitalen Client-
   Onboarding-Plattform
 - Stack: Java, Kotlin, Angular, DevOps, Cloud; Sicherheitsstandards /
   FINMA-konform
 - Rahmen: 100 % Hybrid innerhalb CH; Deutsch C1, Englisch B2
-
-Die Bank wird bewusst geheim gehalten. Deshalb: Initiativbewerbungen
-mit klarem Onboarding- und Banking-Profil direkt beim wahrscheinlichen
-Auftraggeben.
-
-** Wahrscheinliche Bank
-
-Zürcher Kantonalbank (ZKB)
 
 ** Positionierung
 
@@ -247,14 +249,14 @@ Bereits erarbeitet bzw. vorgesehen:
 - CV mit Profilzusammenfassung oben; Aufgaben und Erfolge getrennt;
   quantifizierte Ergebnisse und Stellen-Keywords
 - Anschreiben: klassische Initiativbewerbung und Firmen-Version über
-  GLIP/lyrx (bevorzugt)
+  GLIP/lyrx 
 - Firmen-One-Pager, Angebotsvorlage (Tagessatz), Referenzen,
   LinkedIn-Kurztext
 
 ** Nächste Schritte
 
 1. Unterlagen finalisieren (CV + Anschreiben über GLIP/lyrx).
-2. Kontakte bei UBS, ZKB, Julius Baer, Raiffeisen aufbauen.
+2. Kontakte bei ZKB aufbauen.
 3. LinkedIn schärfen und aktiv netzwerken.
 4. Initiativbewerbungen per E-Mail / Karriereportal.
 5. Konditionen vorbereiten: Tagessatz, Vertrag direkt mit der Bank.
