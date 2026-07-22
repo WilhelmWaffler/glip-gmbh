@@ -202,74 +202,179 @@ Teilsystem, messbarer Nutzen (Legacy-Refactoring, Details im
 Erstgespräch). So prüfen beide Seiten Zusammenarbeit und
 Lieferfähigkeit, bevor über Rahmenverträge gesprochen wird.
 
-* Bewerbungsstrategie bei der  Bank ZKB
+* Bewerbungsstrategie ZKB
 :PROPERTIES:
-:STAND: 2026-07
+:STAND: 2026-07-22
 :END:
 
-Ziel: Direkt bei einer Schweizer Bank einsteigen — nicht über den
-Vermittler ITech Consult AG. Fahrzeug der Bewerbung: lyrx GmbH /
-Marke GLIP als Vertragspartner und Dienstleister.
+Ziel: Direkteinstieg bei der Zürcher Kantonalbank im Aufgabenbereich
+Client Onboarding — ohne den Vermittler ITech Consult AG. Fahrzeug:
+lyrx GmbH / Marke GLIP als Vertragspartner, alternativ Festvertrag.
 
-** Ausgangslage — Umgehung von ITech Consult AG
+** Ausgangslage
 
-ITech Consult schreibt eine Stelle aus, vermutlicher Endkunde ist die
-ZKB. ITech soll umgangen werden, stattdessen Direktbewerbung bei ZKB,
-nicht direkt für diese Stelle, die bei der Itech AG ausgeschrieben
-wird, sondern für diesen Aufgabenbereich und ähnliche
-Aufgabenbereiche.
+ITech Consult AG (itcag.com) schreibt eine Stelle aus, deren
+Endkunde vermutlich die ZKB ist. Statt über den Vermittler zu gehen:
+Initiativbewerbung direkt bei der ZKB — nicht auf genau diese
+Stelle, sondern auf den Aufgabenbereich Client Onboarding und
+verwandte Themen.
 
-Initiativbewerbungen mit klarem Onboarding- und Banking-Profil direkt
-beim vermutlichen Auftraggeber ZKB.
+*** Referenz: Ausschreibung ITech Consult AG
 
-*** Details zur Ausschreibung der Itech Consult AG.
+- Fullstack Software Engineer (m/w/d), Referenz 925103MH
+- Laufzeit: drei Jahre ab 01.10.2026
+- Inhalt: Neuaufbau / Weiterentwicklung einer digitalen
+  Client-Onboarding-Plattform
+- Stack: Java, Kotlin, Angular, DevOps, Cloud; FINMA-konforme
+  Sicherheitsstandards
+- Rahmen: 100 % hybrid innerhalb CH; Deutsch C1, Englisch B2
 
-- Ausschreibung: Fullstack Software Engineer (m/w/d), Referenz
-  925103MH bei ITech Consult AG (itcag.com)
-- Projekt: 01.10.2026 – 31.09.2029, vermutlich  bei der ZKB
-- Inhalt: Neuaufbau / Weiterentwicklung einer digitalen Client-
-  Onboarding-Plattform
-- Stack: Java, Kotlin, Angular, DevOps, Cloud; Sicherheitsstandards /
-  FINMA-konform
-- Rahmen: 100 % Hybrid innerhalb CH; Deutsch C1, Englisch B2
+*** Bestätigung des Umfelds bei der ZKB
+
+Die ZKB sucht (Stand Juli 2026) selbst einen „DevOps Engineer
+Fullstack (m/w/d)" für die „digitale Plattform für Onboarding- und
+Produkteeröffnungsprozesse": Java, Angular, Spring, JPA (Hibernate),
+Maven, Oracle; Kotlin und Cloud als Plus; Erfahrung in Client
+Onboarding bzw. Client Lifecycle Management ausdrücklich verlangt.
+
+- Anzeige: https://apply.refline.ch/792841/11111/pub/1
+- Deckt sich mit der ITech-Ausschreibung — die ZKB ist als Endkunde
+  plausibel, und das Team stellt gerade ein.
 
 ** Positionierung
 
-- Auftritt über GLIP / lyrx GmbH — bevorzugt als Firmenangebot für
-  direkte Zusammenarbeit, nicht nur als Einzelperson
-- Schwerpunkt: Banking-Erfahrung (u. a. Credit Suisse, UBS, VP Bank),
-  regulierte Umgebungen, Java-/Integration-/DevOps-Hintergrund
-- Anschreiben und CV auf Keywords der Stelle ausrichten: Client
+- Auftritt über GLIP / lyrx GmbH, bevorzugt als Firmenangebot mit
+  Direktvertrag; Festanstellung nicht ausgeschlossen
+- Schwerpunkt: Banking-Erfahrung (Credit Suisse, UBS, VP Bank),
+  regulierte Umgebungen, Java / Integration / DevOps
+- CV und Anschreiben auf die Stellen-Keywords ausrichten: Client
   Onboarding, Java/Kotlin/Angular, DevOps, FINMA, Cloud
+
+** Ansprechpartner ZKB
+:PROPERTIES:
+:RECHERCHE: 2026-07-22
+:END:
+
+Quellen: ZKB-Stellenanzeigen (Refline, ITBoard), LinkedIn,
+ZKB-Medienmitteilungen. Direkte E-Mail-Adressen sind nicht
+öffentlich; das ZKB-Schema ist laut LeadIQ/RocketReach zu ~97 %
+vorname.nachname@zkb.ch. Abgeleitete Adressen sind entsprechend
+markiert und vor Versand telefonisch oder via LinkedIn zu prüfen.
+
+*** Amir Reshef — Recruiting IT (primärer Kontakt)
+
+- Rolle: Talentgewinnung & Rekrutierung; Kontaktperson in den
+  ZKB-Anzeigen „DevOps Engineer Fullstack" (Onboarding-Plattform)
+  und „Solution Architect eBanking"
+- Telefon: 044 292 27 39 (aus den Stellenanzeigen, verifiziert)
+- LinkedIn: https://www.linkedin.com/in/areshef
+- E-Mail: amir.reshef@zkb.ch (abgeleitet, unbestätigt)
+
+*** Lianna Müller — Recruiting IT
+
+- Rolle: Senior HR Specialist Recruiting & Talent Acquisition,
+  zuständig für IT und Banking Operations (bei der ZKB seit 2023)
+- Telefon: 044 292 28 89 (aus Anzeige „Leiter:in IT-Architektur",
+  verifiziert)
+- LinkedIn: https://www.linkedin.com/in/lianna-m%C3%BCller
+- E-Mail: lianna.mueller@zkb.ch (abgeleitet, unbestätigt; Schreibung
+  des Umlauts unklar)
+
+*** Nimisha Kasamkattil — Recruiting IT
+
+- Rolle: Senior HR Specialist Talent Acquisition; tritt öffentlich
+  für die ZKB-IT auf (Tech-Events, DevOps/AI-Themen)
+- LinkedIn: https://www.linkedin.com/in/nimisha-kasamkattil-a9b988205
+- Telefon/E-Mail: nicht öffentlich gefunden
+
+*** Dr. Mario Crameri — Leiter IT, Operations & Real Estate
+
+- Mitglied der Generaldirektion seit 01.06.2025; davor rund 20 Jahre
+  Credit Suisse (u. a. CIO) und vier Jahre CIO bei Julius Bär
+- Kein Bewerbungskontakt, aber relevant: gemeinsamer
+  CS-Hintergrund als möglicher Anknüpfungspunkt auf LinkedIn
+- LinkedIn: https://www.linkedin.com/in/mariocrameri
+
+*** Allgemeine Kanäle
+
+- Karriereportal: https://www.zkb.ch/de/ueber-uns/jobs-karriere.html
+- Bewerbungen laufen über Refline (apply.refline.ch/792841/…)
+
+** Plan Initiativbewerbung — erste Schritte
+
+1. Kontakt verifizieren: Amir Reshef unter 044 292 27 39 anrufen
+   oder auf LinkedIn anschreiben. Zwei Fragen klären: Nimmt die ZKB
+   im Onboarding-Umfeld externe Senior Engineers bzw. Verträge mit
+   einer GmbH an? An welche Adresse soll die Initiativbewerbung
+   gehen?
+2. Unterlagen fertigstellen: CV mit den Keywords Client Onboarding,
+   Java, Kotlin, Angular, DevOps, FINMA; dazu Firmen-One-Pager
+   GLIP/lyrx mit Tagessatz-Rahmen.
+3. Initiativ-Mail an den in Schritt 1 bestätigten Kontakt senden
+   (Vorlage unten). Parallel auf die laufende Ausschreibung „DevOps
+   Engineer Fullstack" über das Refline-Portal bewerben — gleicher
+   Aufgabenbereich, offener Kanal.
+4. Ohne Antwort nach 7–10 Tagen telefonisch nachfassen.
+
+Risiko: Banken beschaffen Externe oft über feste Lieferantenlisten
+oder Personalverleih. Falls die ZKB das so handhabt, in Schritt 1
+klären, ob die lyrx GmbH als Direktlieferant (Dienstleistungs- oder
+Werkvertrag) auftreten kann — sonst bleibt der Weg über eine
+Festanstellung oder einen gelisteten Lieferanten.
+
+** Vorlage Erst-Mail
+
+Empfänger: Amir Reshef. Adresse vor Versand gemäss Schritt 1
+verifizieren (vermutlich amir.reshef@zkb.ch). Anhang: CV, optional
+Firmen-One-Pager. Für LinkedIn auf die ersten zwei Absätze kürzen.
+
+#+BEGIN_EXAMPLE
+Betreff: Initiativbewerbung Senior Engineer Client Onboarding —
+Java/Kotlin, Banking-Erfahrung
+
+Guten Tag Herr Reshef
+
+Die ZKB baut ihre digitale Plattform für Onboarding- und
+Produkteeröffnungsprozesse aus. Genau in diesem Umfeld biete ich
+meine Erfahrung an — als Festanstellung oder als Direktvertrag über
+meine lyrx GmbH, ohne Vermittler.
+
+Kurz zu mir:
+
+- über 25 Jahre Softwareentwicklung in regulierten Umgebungen,
+  davon ein Grossteil im Schweizer Banking (Credit Suisse, UBS
+  E-Banking-Integration, VP Bank)
+- Schwerpunkte: Java/Spring, Integration (SOAP/XML, Kafka, MQ),
+  DevOps, CI/CD und Testautomatisierung
+- seit 2023 KI-gestützte Analyse und Wartung von Legacy-Systemen —
+  nachvollziehbar und auditierbar, passend zu FINMA-Anforderungen
+- seit 2007 in der Schweiz ansässig, Deutsch Muttersprache
+
+Gerne stelle ich mich in einem kurzen Gespräch vor, telefonisch
+oder vor Ort in Zürich. Mein CV ist angehängt.
+
+Freundliche Grüsse
+Rudolf Alexander Weinmann
+lyrx GmbH, Oberholzstr. 5, 8603 Schwerzenbach
++41 76 257 69 61 · alexander.weinmann@gmail.com
+#+END_EXAMPLE
 
 ** Unterlagen
 
-Bereits erarbeitet bzw. vorgesehen:
-
-- CV mit Profilzusammenfassung oben; Aufgaben und Erfolge getrennt;
-  quantifizierte Ergebnisse und Stellen-Keywords
-- Anschreiben: klassische Initiativbewerbung und Firmen-Version über
-  GLIP/lyrx 
+- CV mit Profilzusammenfassung oben, Aufgaben und Erfolge getrennt,
+  quantifizierte Ergebnisse, Stellen-Keywords
+- Anschreiben in zwei Versionen: klassische Initiativbewerbung und
+  Firmen-Version über GLIP/lyrx
 - Firmen-One-Pager, Angebotsvorlage (Tagessatz), Referenzen,
   LinkedIn-Kurztext
-
-** Nächste Schritte
-
-1. Unterlagen finalisieren (CV + Anschreiben über GLIP/lyrx).
-2. Kontakte bei ZKB aufbauen.
-3. LinkedIn schärfen und aktiv netzwerken.
-4. Initiativbewerbungen per E-Mail / Karriereportal.
-5. Konditionen vorbereiten: Tagessatz, Vertrag direkt mit der Bank.
-
-Bei Interviews: Onboarding-Flows, Security und Architektur
-durchdenken; ATS-Keywords und messbare Erfolge im CV halten.
 
 ** Offen
 
 - Editierbare Endfassungen (Word/PDF) für CV, Anschreiben, Angebot
-- Personalisierte Versionen und konkrete Ansprechpartner pro Bank
-- Tracking-Tabelle für Bewerbungen
-- Nachziehen nach Feedback aus Gesprächen
+- Antwort aus Schritt 1 einarbeiten (bestätigte Adresse, Prozess)
+- Tracking der Bewerbung: Datum, Kanal, Kontakt, Status
+- Vorbereitung auf Gespräche: Onboarding-Flows, Security,
+  Architektur; Tagessatz und Vertragsmodell festlegen
 
 * Berufserfahrung
 
